@@ -1,0 +1,10 @@
+keys.py
+Include
+Scripts
+lib
+libmagicwin64
+__pycache__
+etc
+share
+vector_index1.pkl
+*.pkl
